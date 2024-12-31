@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Emily Kang. I'm a student at the University of Washington majoring in Computer Science! 
+I'm Emily Kang. I'm a CS student at the University of Washington.
 Here's my personal website: https://emily-kang77.github.io/
 
-
+🌱 I'm interested in distributed systems and AI.
 
 
 
