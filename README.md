@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Emily Kang. I'm a student at the University of Washington majoring in Computer Science! 
+Here's my personal website: https://emily-kang77.github.io/
+
+
+
+
+
 <!--
 **Emily-Kang77/Emily-Kang77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
