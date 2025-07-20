@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Emily Kang. I'm a CS student at the University of Washington.
-Here's my personal website: https://emily-kang77.github.io/
+Here's my site: https://www.emilykang.dev/
 
 🌱 I'm interested in distributed systems and AI.
 
