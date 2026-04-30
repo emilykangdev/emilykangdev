@@ -6,4 +6,4 @@ I believe in building great products for engineers first. We have the best taste
 - Kern, an infinite canvas based notes app with proper exports and AI features
 
 Maintenance mode:
-- PodcastBrief, to help you learn from more podcast episodes with AI-generated briefs, which include real links to references mentioned in the episode.
+- PodcastBrief, to help you learn from more podcast episodes with AI-generated briefs. These include real links to references mentioned in the episode.
